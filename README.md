@@ -36,7 +36,7 @@ app.use(bodyParserError.beautify({status: 500 , res: {msg: 'You sent a bad JSON 
 
 The output:
 
-**HTTP Status Code:** 400 
+**HTTP Status Code:** 500 
 
 ```javascript
 {
