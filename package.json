@@ -1,0 +1,19 @@
+{
+  "name": "bodyparser-json-error",
+  "version": "0.0.1",
+  "description": "Beautify Express body-parser JSON syntax error",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-Lopes/bodyparser-json-error.git"
+  },
+  "author": "Igor Lopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Igor-Lopes/bodyparser-json-error/issues"
+  },
+  "homepage": "https://github.com/Igor-Lopes/bodyparser-json-error#readme"
+}
