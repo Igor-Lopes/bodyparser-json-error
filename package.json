@@ -1,6 +1,6 @@
 {
   "name": "bodyparser-json-error",
-  "version": "0.0.1",
+  "version": "0.5.0",
   "description": "Beautify Express body-parser JSON syntax error",
   "main": "index.js",
   "scripts": {
