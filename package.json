@@ -4,7 +4,8 @@
   "description": "Beautify Express body-parser JSON syntax error",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "SET NODE_ENV=local-test && node app.js",
+    "test": "mocha specs/"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/Igor-Lopes/bodyparser-json-error/issues"
   },
-  "homepage": "https://github.com/Igor-Lopes/bodyparser-json-error#readme"
+  "homepage": "https://github.com/Igor-Lopes/bodyparser-json-error#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "chai": "^4.0.2",
+    "chai-http": "^3.0.0",
+    "express": "^4.15.3",
+    "mocha": "^3.4.2"
+  }
 }
