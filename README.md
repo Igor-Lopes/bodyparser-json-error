@@ -50,5 +50,13 @@ The output:
 * status: The response status code. **Default:** 400
 * res: The response body. **Default:** ``{msg: 'Invalid JSON'}``
 
+## Tests
+To run the test suite, first install the dependencies, then run `npm test`:
+
+```bash
+$ npm install
+$ npm test
+```
+
 ## License
 MIT License
