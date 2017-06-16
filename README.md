@@ -1,6 +1,8 @@
 # bodyparser-json-error
 Beautify body parser JSON syntax error
 
+[![Build Status](https://travis-ci.org/Igor-Lopes/bodyparser-json-error.svg?branch=master)](https://travis-ci.org/Igor-Lopes/bodyparser-json-error) [![npm version](https://badge.fury.io/js/bodyparser-json-error.svg)](https://badge.fury.io/js/bodyparser-json-error)
+
 ## Installation
 
 ```
